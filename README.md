@@ -10,18 +10,25 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
----
+
+
+## 👩‍💻 Fale Comigo!!
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=karolyna.rolim01@gmail.com
+  <a href=""mailto:karolyna.rolim01@gmail.com alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="mailto:karolyna.rolim01@gmail.com
 " /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/karolyna-rolim-1bb862237" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karolyna-rolim-1bb862237" /></a>
-  <a href="#" alt="Instagram">
+  <a href="//www.instagram.com/karolroliim" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/karolroliim/"/></a>
 </p>  
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=KaroIyna&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=KaroIyna&theme=highcontrast&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/KaroIyna">
+  
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaroIyna&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KaroIyna&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  
+   ##
+ ![Snake animation](https://github.com/viipaxx/viipaxx/blob/output/github-contribution-grid-snake.svg)
