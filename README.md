@@ -33,4 +33,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KaroIyna&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   
    ##
- ![Snake animation](https://github.com/viipaxx/viipaxx/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/KaroIyna/KaroIyna/blob/output/github-contribution-grid-snake.svg)
