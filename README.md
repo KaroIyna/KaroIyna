@@ -31,6 +31,7 @@
   
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaroIyna&layout=compact&langs_count=7&theme=highcontrast"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KaroIyna&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  
+<!--   
    ##
 ![](https://raw.githubusercontent.com/KaroIynaRolim/KaroIynaRolim/output/github-contribution-grid-snake.svg)
+ -->
