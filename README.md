@@ -23,14 +23,14 @@
 
   <a href="https://www.linkedin.com/in/karolyna-rolim-1bb862237" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karolyna-rolim-1bb862237" /></a>
-  <a href="//www.instagram.com/karolroliim" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/karolroliim/"/></a>
+  <a href="//www.instagram.com/karolynaroliim" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/karolynaroliim/"/></a>
 </p>  
 
- <a href="https://github.com/KaroIyna">
+ <a href="https://github.com/KaroIynaRolim">
   
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaroIyna&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KaroIyna&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaroIynaRolim&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KaroIynaRolim&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <!--   
    ##
 ![](https://raw.githubusercontent.com/KaroIynaRolim/KaroIynaRolim/output/github-contribution-grid-snake.svg)
