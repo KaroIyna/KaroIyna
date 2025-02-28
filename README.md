@@ -2,7 +2,9 @@
 <!--   <img src="![image](https://user-images.githubusercontent.com/124792934/235670947-849a6ab4-126c-4ce1-a1e4-b5583b7f3fb1.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Avatar Karolyna">
   -->
  ![WhatsApp Image 2023-03-21 at 12 16 15](https://user-images.githubusercontent.com/124792934/235672149-7271bd89-73c0-4dea-a1c7-f1150ccddbdc.jpeg)
-> Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Extremamente apaixonada por tecnologia e inovação e estou caminhando para me especializar na área de Front-end.<br>
+> Profissional formada em <strong> Análise e Desenvolvimento de Sistemas </strong>, com foco em dados e experiência em SQL, Python, Power BI e
+Machine Learning.
+<br>
 
 ## 🚀 Minhas Skills
 
